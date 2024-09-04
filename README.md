@@ -1,4 +1,4 @@
-# SQL Project README
+# SQL Project for Nutrition Database README
 NUTRITION DATABASE 
 Welcome to the SQL Project repository! This project provides a comprehensive set of SQL scripts designed for managing and analyzing user exercise, meal consumption, and nutritional intake data. Below you will find details on the project's purpose, setup instructions, and key SQL scripts used in the project.
 
